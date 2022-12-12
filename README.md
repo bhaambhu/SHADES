@@ -14,7 +14,7 @@ This game is not open-source yet but I plan to make it.
 
 ## Tech
 
-Unity3D, Google Play Services
+Unity3D, C#, Blender, GIMP, Google Play Services
 ## Features
 
 ### Multiplayer 
