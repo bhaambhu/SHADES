@@ -4,6 +4,7 @@ body {
 
 p {
   line-height: 1.5rem;
+  text-align: justify;
 }
 
 h1, h2 {
@@ -29,6 +30,12 @@ h1, h2 {
   width: 48%;
 }
 
+.ScreenShotContainer {
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+}
+
 @media only screen and (min-width: 768px){
   .Content {
     margin: 30px auto;
@@ -39,7 +46,11 @@ h1, h2 {
     width: 60%;
   }
   
-  .VerticalScreenshot {
+  /* .VerticalScreenshot {
     width: 25%;
+  } */
+
+  .ScreenShotContainer {
+    width: 60%;
   }
 }
