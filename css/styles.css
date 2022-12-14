@@ -50,14 +50,10 @@ h1, h2 {
   }
   
   .HorizontalScreenshot {
-    width: 60%;
+    width: 80%;
   }
-  
-  /* .VerticalScreenshot {
-    width: 25%;
-  } */
 
   .ScreenShotContainer {
-    width: 60%;
+    width: 80%;
   }
 }
