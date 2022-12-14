@@ -14,6 +14,13 @@ h1, h2 {
   padding: 10px 0;
 }
 
+.BlueText {
+  color: darkblue;
+}
+
+.RedText {
+  color: maroon;
+}
 
 .Content {
   margin: 10px;
