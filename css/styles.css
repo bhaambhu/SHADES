@@ -15,8 +15,25 @@ h1, h2 {
 }
 
 .LoveText {
-  color: palevioletred;
+  color: crimson;
+  text-decoration: none;
 }
+
+.GoldText {
+  color: darkgoldenrod;
+}
+
+a:link { text-decoration: none; }
+
+
+a:visited { text-decoration: none; }
+
+
+a:hover { text-decoration: none; }
+
+
+a:active { text-decoration: none; }
+
 
 .BlueText {
   color: darkblue;
