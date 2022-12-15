@@ -14,6 +14,10 @@ h1, h2 {
   padding: 10px 0;
 }
 
+.LoveText {
+  color: palevioletred;
+}
+
 .BlueText {
   color: darkblue;
 }
