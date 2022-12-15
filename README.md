@@ -1,6 +1,10 @@
 
-# SHADES: Combat Militia
+# SHADES: Combat Militia Docs
 
-A repository for the docs of the game. This game is not open-source yet but I plan to make it.
+Dear friend,
 
-[View](bhaambhu.github.io/SHADES)
+This repository is for the docs of the game. The game is not open-source yet.
+
+[Preview Docs](https://bhaambhu.github.io/SHADES)
+
+Thanks and Regards,<br>[Sanjay Bhaambhu](https://bhaambhu.com).
